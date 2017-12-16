@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/jvk/temp/UploadImageLab_from_LoginLabComplete/conf/logback.xml,/home/jvk/temp/UploadImageLab_from_LoginLabComplete/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/jvk/temp/UploadImageLab_from_LoginLabComplete/conf/routes,/home/jvk/temp/UploadImageLab_from_LoginLabComplete/target/scala-2.12/classes/routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/jvk/temp/UploadImageLab_from_LoginLabComplete/conf/evolutions,/home/jvk/temp/UploadImageLab_from_LoginLabComplete/target/scala-2.12/classes/evolutions)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/jvk/temp/UploadImageLab_from_LoginLabComplete/conf/application.conf,/home/jvk/temp/UploadImageLab_from_LoginLabComplete/target/scala-2.12/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/jvk/temp/UploadImageLab_from_LoginLabComplete/conf/evolutions/default,/home/jvk/temp/UploadImageLab_from_LoginLabComplete/target/scala-2.12/classes/evolutions/default)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/jvk/temp/UploadImageLab_from_LoginLabComplete/conf/evolutions/default/2.sql,/home/jvk/temp/UploadImageLab_from_LoginLabComplete/target/scala-2.12/classes/evolutions/default/2.sql)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/jvk/temp/UploadImageLab_from_LoginLabComplete/conf/evolutions/default/1.sql,/home/jvk/temp/UploadImageLab_from_LoginLabComplete/target/scala-2.12/classes/evolutions/default/1.sql)[0m
